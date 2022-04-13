@@ -1,5 +1,5 @@
 # Link Prediction Pipeline Demo for Cross-Device Entity Resolution
-This repository demonstrates the application of Neo4j Link Prediction Pipelines to a Cross Device Entity Resolution Problem.
+This repository demonstrates the application of Neo4j Link Prediction Pipelines to a Cross Device Entity Resolution Problem. A full background for this problem and descrition of the workflow can be found [in this blog](https://neo4j.com/developer-blog/exploring-supervised-entity-resolution-in-neo4j/).
 
 The source data and challenge problem for this demo can be found at:
 https://competitions.codalab.org/competitions/11171. The data is not committed here.
